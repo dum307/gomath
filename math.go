@@ -1,8 +1,8 @@
 package gomath
 
-// Add складывает два числа
-func Add(a, b int) int {
-    return a + b
+// Add теперь складывает ТРИ числа (изменено в v2!)
+func Add(a, b, c int) int {
+    return a + b + c
 }
 
 // Multiply умножает два числа  
